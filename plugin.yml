@@ -1,0 +1,28 @@
+name: EasyGM
+main: EasyGM\Main
+author: debugkokichi
+version: 0.3
+api: [3.0.0]
+commands:
+ gm1:
+  description: Switch into creative mode.
+ permission: "gm1.cmd"
+ gm0:
+  description: Switch into survival mode.
+ permission: "gm0.cmd"
+ gm2:
+  description: Switch into adventure mode.
+ permission: "gm2.cmd"
+ gm3:
+  description: Switch into spectator mode.
+ permission: "gm3.cmd"
+
+permissions:
+ gm1.cmd:
+  default: false
+ gm0.cmd:
+  default: false
+ gm2.cmd:
+  default: false
+ gm3.cmd:
+  default: false
