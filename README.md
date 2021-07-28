@@ -1,5 +1,5 @@
 # EasyGM
-Easy Gamemode (in short "EasyGM") is a gamemode plugin, wich allows you to change your gamemode pretty easy.
+Easy Gamemode (in short "EasyGM") is a gamemode plugin, wich allows you to change your gamemode pretty easy. This plugin was made for PMMP servers.
 
 ## Commands
 1. || Gamemode 0 --> /gm0
